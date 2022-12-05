@@ -1,4 +1,4 @@
 - Interested in esports, analyzing data, learning stuff
-- Currently learning webdev, python
-- Reach me in dm's on twitter @dabljulol
+- Currently learning basic of html css js and python
+- Reach me in dms on twitter @dabljulol
 - Located in Silesia, Poland
