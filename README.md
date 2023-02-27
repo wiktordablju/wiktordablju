@@ -1,4 +1,5 @@
 - Interested in esports, analyzing data, generally speaking learning some new cool stuff
 - Currently learning basics of web dev (HTML, plain CSS, plain JS) and Python
+- Known basics of C++ and PHP (from school)
 - Reach me in dms on twitter @dabljulol
 - Located in Silesia, Poland
