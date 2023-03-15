@@ -1,6 +1,6 @@
 - Interested in esports, analyzing data, generally speaking learning some new cool stuff
 - Currently learning basics of web dev (HTML, plain CSS, plain JS) and Python
-- Student of Technical School (4th out of 5 years)
+- Student of Technical School (4th year out of 5)
 - Know basics of: C++, PHP, MySQL, Apache, Networking
 - Reach me in dms on twitter @dabljulol
 - Located in Silesia, Poland
