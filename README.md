@@ -1,6 +1,8 @@
-## Interested in esports, analyzing data, generally speaking learning some new cool stuff
 ## Student of Technical School (4th year out of 5)
 
+
+### Interested in Esports, data analysis and webdev in general.
+### Aspiring to become fullstack developer in the future
 ## Skills:
 - HTML
 - CSS, SASS
