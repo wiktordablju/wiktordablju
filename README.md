@@ -7,7 +7,8 @@
 - HTML
 - CSS, SASS
 - Basics of JavaScript
-- Basics of Python
+- Python
+- Basics of Django
 - Linux
 ### Learnt at school:
 - Basics of C++
