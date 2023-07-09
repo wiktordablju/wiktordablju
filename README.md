@@ -32,10 +32,10 @@ Hello, I am a technical middle school student, who is learning how to code and a
 <details>
   <summary><h2>More about me:</h2></summary>
   My name is Wiktor, I will be student of fifth year (out of five) in technical middle school in Poland. I was born in 2004, and I'm learning how to code for like three years now, I'm interested about a lot of stuff, but mainly web development, data analysis (including esports) and Linux. My plan is to go to a technical college for an IT engineering studies. 
-This GitHub is a journal for me, I have every exercise or project from school and the files from my courses I'm planning to start making a portfolio in close future.
-This README.md was inspired by this guy @ForrestKnight
-I am located in Silesia, Poland
-Reach me in my DM's on Twitter @dabljulol
+This GitHub is a journal for me, I have every exercise or project from school and the files from my courses I'm planning to start making a portfolio in close future. <br/>
+This README.md was inspired by this guy @ForrestKnight <br/>
+I am located in Silesia, Poland <br/>
+Reach me in my DM's on Twitter @dabljulol <br/>
 i use arch btw
 
 </details>
