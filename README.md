@@ -1,4 +1,9 @@
 # 🕸️ dablju
+
+  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+  
 <p><img align="center" width="50%" src="https://i.pinimg.com/originals/d1/38/2f/d1382f3b73146b0118384fa1d4939ead.gif"> </p>
 
 Hello, I am a technical middle school student, who is learning how to code and aspire to be a full-stack developer one day. Currently, I am using GitHub as a kind of journal to track my progress over time. Most of the repositories are either projects from courses that I learn from or some school projects.
