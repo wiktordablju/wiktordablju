@@ -18,9 +18,9 @@ Hello, I am a student of the technical middle school who is learning how to code
 <br/><br/>
 
 ## Statistics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiktordablju&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wiktordablju&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wiktordablju&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiktordablju&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wiktordablju&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wiktordablju&theme=jolly)
 
 ---
 
