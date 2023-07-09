@@ -1,5 +1,8 @@
 ## Student of Technical School (4th year out of 5)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiktordablju&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wiktordablju&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wiktordablju&theme=2077)
 
 ### Interested in Esports, data analysis and webdev in general.
 ### Aspiring to become fullstack developer in the future
