@@ -9,7 +9,7 @@
 Hello, I am a technical middle school student, who is learning how to code and aspire to be a full-stack developer one day. Currently, I am using GitHub as a kind of journal to track my progress over time. Most of the repositories are either projects from courses that I learn from or some school projects.
 
 ---
-## Technologies I use or learn:
+## My tech stack:
 <img align="left" alt="Linux" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 <img align="left" alt="Git" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 <img align="left" alt="HTML" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
@@ -18,8 +18,12 @@ Hello, I am a technical middle school student, who is learning how to code and a
 <img align="left" alt="JavaScript" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
 <img align="left" alt="Python" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 <img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
+<img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />    
 <img align="left" alt="C++" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="left" alt="PHP" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
+<img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
+<img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+
 <br/><br/>
 
 ## Statistics:
