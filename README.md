@@ -21,7 +21,6 @@ Hello, I am a technical middle school student, who is learning how to code and a
 <img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />    
 <img align="left" alt="C++" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
 <img align="left" alt="PHP" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
-<img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
 <img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 
 <br/><br/>
