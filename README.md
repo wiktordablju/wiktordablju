@@ -27,7 +27,7 @@ Hello, I am a technical middle school student, who is learning how to code and a
 
 ## Statistics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiktordablju&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wiktordablju&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wiktordablju&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wiktordablju&theme=jolly)
 
 ---
