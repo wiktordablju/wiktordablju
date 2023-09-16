@@ -43,6 +43,6 @@ This GitHub is a journal for me, I have every exercise or project from school an
 This README.md was inspired by this guy @ForrestKnight <br/>
 I am located in Silesia, Poland <br/>
 Reach me in my DM's on Twitter @dabljulol <br/>
-i use arch btw
+I use arch btw
 
 </details>
