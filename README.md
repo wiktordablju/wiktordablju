@@ -15,7 +15,6 @@ Hello, I am a technical middle school student, who is learning how to code and a
 <img align="left" alt="HTML" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
 <img align="left" alt="CSS" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
 <img align="left" alt="SASS" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
-<img align="left" alt="JavaScript" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
 <img align="left" alt="Python" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 <img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
 <img align="left" alt="Flask" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />    
@@ -23,6 +22,7 @@ Hello, I am a technical middle school student, who is learning how to code and a
 
 
 ## Currently learning:
+<img align="left" alt="JavaScript" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
 <img align="left" alt="PHP" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
 <img align="left" alt="Java" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="left" alt="C++" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
