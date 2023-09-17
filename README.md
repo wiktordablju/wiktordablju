@@ -3,7 +3,11 @@
  
 
   
-<p><img align="center" width="50%" src="https://i.pinimg.com/originals/d1/38/2f/d1382f3b73146b0118384fa1d4939ead.gif"> </p>
+<div align="center">
+    <img width="65%" src="https://i.pinimg.com/originals/90/4a/d5/904ad55476d42e1482bf19a9dbe4f632.gif">
+</div>
+
+
 
 
 Hello, I am a technical middle school student, who is learning how to code and aspire to be a full-stack developer one day. Currently, I am using GitHub as a kind of journal to track my progress over time. Most of the repositories are either projects from courses that I learn from or some school projects.
@@ -38,6 +42,7 @@ Hello, I am a technical middle school student, who is learning how to code and a
 
 <details>
   <summary><h2>More about me:</h2></summary>
+ <img width=30% src="https://i.pinimg.com/564x/59/1a/33/591a33ab58069c44f495b59f5129c16d.jpg">
   My name is Wiktor, I will be student of fifth year (out of five) in technical middle school in Poland. I was born in 2004, and I'm learning how to code for like three years now, I'm interested about a lot of stuff, but mainly web development, data analysis (including esports) and Linux. My plan is to go to a technical college for an IT engineering studies. 
 This GitHub is a journal for me, I have every exercise or project from school and the files from my courses I'm planning to start making a portfolio in close future. <br/>
 This README.md was inspired by this guy @ForrestKnight <br/>
