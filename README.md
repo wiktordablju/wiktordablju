@@ -20,15 +20,15 @@ Hello, I am a technical middle school student, who is learning how to code and a
 <img align="left" alt="SASS" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
 <img align="left" alt="Python" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 <img align="left" alt="Django" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
-<img align="left" alt="Flask" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />    
 <br><br>
 
 
 ## Currently learning:
 <img align="left" alt="JavaScript" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
-<img align="left" alt="PHP" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
-<img align="left" alt="Java" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img align="left" alt="Bootrstrap" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="TypeScript" width="40px" style="padding: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> 
+<img align="left" alt="TypeScript" width="40px" style="padding: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"> 
+
+
 
 <br/><br/>
 
