@@ -1,6 +1,6 @@
 # 🕸️ dablju
 
-Hello, I am a recent graduate from technical school, awaiting to commence my studies in computer science. I aspire to work as a fullstack developer or pursue an academic career in the future. Currently, I use this GitHub as a personal "journal" to track my coding progress. Most of the repositories here are projects or lessons from my technical school days, or my "sandboxes" for learning various things.
+Hello, I have recently graduated from technical school and have already started my studies in computer science at the Silesian University of Technology. I aspire to work as a fullstack developer or pursue an academic career in the future. Currently, I use this GitHub as a personal "journal" to track my coding progress. Most of the repositories here are projects or lessons from my technical school days, or my "sandboxes" for learning various things.
 
 ---
 ## My tech stack:
